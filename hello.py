@@ -12,3 +12,11 @@ if direction == "behind":
     print("You Win!")
 else:
     print("You Died!")
+
+print("okay, so we kown you always made wrong selection and then died, so we still provide the chance to relive.")
+print("so the signal game start really!")
+print("******************************************************************************\
+      *                                                                             *\
+      *                                                                             *\
+      *                                                                             *\
+      *******************************************************************************")
